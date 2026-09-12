@@ -1,0 +1,9 @@
+node_modules/
+dist/
+backend/model.pt
+backend/fingerprint_validator.pt
+backend/smear_validator.pt
+*.pt
+__pycache__/
+*.pyc
+.env
